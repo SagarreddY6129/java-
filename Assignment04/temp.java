@@ -1,4 +1,6 @@
- class Animal {
+package Assignment04;
+
+class Animal {
     public String name;
     protected int age;
     private String color;

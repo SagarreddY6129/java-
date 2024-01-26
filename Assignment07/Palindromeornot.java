@@ -1,3 +1,5 @@
+package Assignment07;
+
 import java.util.Scanner;
 
 public class Palindromeornot {

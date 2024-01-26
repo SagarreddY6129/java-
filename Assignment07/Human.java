@@ -1,5 +1,6 @@
+package Assignment07;
+
 import java.util.ArrayList;
-import java.util.Vector;
 
 public class Human {
     String name;
@@ -7,7 +8,7 @@ public class Human {
     int height;
 
 
-    public Human(int age,String name){
+    public Human(int age, String name){
         this.age=age;
         this.name=name;
 

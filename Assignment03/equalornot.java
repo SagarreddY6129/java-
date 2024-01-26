@@ -1,3 +1,5 @@
+package Assignment03;
+
 import java.util.Scanner;
 public class equalornot {
     public static void main(String[] args) {

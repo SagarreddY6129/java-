@@ -1,3 +1,5 @@
+package Assignment05;
+
 public class Message {
 
         public String text;

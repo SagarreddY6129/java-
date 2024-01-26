@@ -1,3 +1,4 @@
+package Assignment06;
 
 import java.util.Scanner;
 public class Fourtable {

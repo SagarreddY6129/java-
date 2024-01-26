@@ -1,3 +1,5 @@
+package Assignment01;
+
 public class studentdata {
     public static void main(String[] args) {
         byte age= 11;
